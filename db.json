@@ -2,70 +2,16 @@
   {
     "id": 1,
     "category": 1,
-    "max_quantity": 1,
-    "item": "Erase 1 Timeout",
+    "max_quantity": 1
   },
   {
     "id": 2,
     "category": 1,
-    "max_quantity": 1,
-    "item": "Erase 1 RT or School Referral",
-    "price": 15
+    "max_quantity": 1
   },
   {
     "id": 3,
     "category": 2,
-    "max_quantity": 1,
-    "item": "Deodorant",
-    "price": 5
-  },
-  {
-    "id": 4,
-    "category": 2,
-    "max_quantity": 1,
-    "item": "Colgate Toothpaste",
-    "price": 5
-  },
-  {
-    "id": 5,
-    "category": 2,
-    "max_quantity": 1,
-    "item": "Shampoo",
-    "price": 5
-  },
-  {
-    "id": 6,
-    "category": 3,
-    "max_quantity": 1,
-    "item": "Toothbrush",
-    "price": 5
-  },
-  {
-    "id": 7,
-    "category": 4,
-    "max_quantity": 1,
-    "item": "5 min extra in the shower",
-    "price": 10
-  },
-  {
-    "id": 8,
-    "category": 5,
-    "max_quantity": 1,
-    "item": "Head ‘N Shoulders Dandruff Shampoo",
-    "price": 10
-  },
-  {
-    "id": 9,
-    "category": 6,
-    "max_quantity": 1,
-    "item": "Lip Balm",
-    "price": 15
-  },
-  {
-    "id": 10,
-    "category": 7,
-    "max_quantity": 1,
-    "item": "Dial Body Wash",
-    "price": 20
+    "max_quantity": 1
   }
 ]
