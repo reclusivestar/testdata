@@ -1,4 +1,6 @@
-[
+
+{
+  "posts": [
   {
     "userId": 1,
     "id": 1,
@@ -23,4 +25,21 @@
     "title": "eum et est occaecati",
     "body": "ullam et saepe resciunt rem tenetur doloremque ipsam iure\nquis sunt voluptatem rerum illo velit"
   }
-]
+],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
+
