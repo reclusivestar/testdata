@@ -210,34 +210,6 @@
     "max_quantity": 1,
     "item": "Chocolate",
     "price": 15
-  },
-  {
-    "id": 31,
-    "category": 11,
-    "max_quantity": 1,
-    "item": "Brownie",
-    "price": 15
-  },
-  {
-    "id": 32,
-    "category": 12,
-    "max_quantity": 1,
-    "item": "Kellogg’s Pop Tart (Strawberry, Cherry, Blueberry)",
-    "price": 25
-  },
-  {
-    "id": 33,
-    "category": 13,
-    "max_quantity": 1,
-    "item": "Gatorade",
-    "price": 15
-  },
-  {
-    "id": 34,
-    "category": 14,
-    "max_quantity": 1,
-    "item": "5-minute non-collect phone call",
-    "price": 15
   }
 ],
   "Prss": [
